@@ -1,0 +1,14 @@
+public class Animal {
+
+    int age ;
+    String family;
+    String name;
+    boolean isMammal;
+
+Animal(int age, String family, String name, boolean isMammal) {
+        this.age = age;
+        this.family = family;
+        this.name = name;
+        this.isMammam = isMammal;
+    }
+}

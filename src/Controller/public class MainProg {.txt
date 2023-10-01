@@ -1,0 +1,11 @@
+public class MainProg {
+
+    public static void main(String[] args) {
+     Animal lion = new Animal ("Félin","Simba",5,true);  
+     Zoo myzoo = new Zoo ("Mon Zoo","VilleZoo",10,zooAnimals);
+
+
+
+
+    }
+}
